@@ -1,5 +1,7 @@
 # hello-devstack
-Repositório somente para brincar um pouco com a distribuição devstack de openstack
+Repositório somente para brincar um pouco com a distribuição devstack de openstack.\
+Cria um VM com os requisítos mínimos e instancia um script para iniciar a configuração do devstack na VM
+
 
 ## Como rodar?
 1. [Instale o VirtualBox](https://www.virtualbox.org/wiki/Downloads)
